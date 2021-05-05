@@ -1,4 +1,4 @@
-# RRHackerNewsAPIList
+# RRHackerNewsList by Hacker News API
 
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Rahul-Mayani/RRHackerNewsList/blob/master/LICENSE)
